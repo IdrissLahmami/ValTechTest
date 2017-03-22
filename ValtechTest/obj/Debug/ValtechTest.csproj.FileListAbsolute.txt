@@ -1,0 +1,13 @@
+C:\DEV\TDD\Selenium\1.0\SeleniumTest1\ValtechTest\ValtechTest\bin\Debug\ValtechTest.dll
+C:\DEV\TDD\Selenium\1.0\SeleniumTest1\ValtechTest\ValtechTest\bin\Debug\ValtechTest.pdb
+C:\DEV\TDD\Selenium\1.0\SeleniumTest1\ValtechTest\ValtechTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\DEV\TDD\Selenium\1.0\SeleniumTest1\ValtechTest\ValtechTest\bin\Debug\nunit.framework.dll
+C:\DEV\TDD\Selenium\1.0\SeleniumTest1\ValtechTest\ValtechTest\bin\Debug\WebDriver.dll
+C:\DEV\TDD\Selenium\1.0\SeleniumTest1\ValtechTest\ValtechTest\bin\Debug\WebDriver.Support.dll
+C:\DEV\TDD\Selenium\1.0\SeleniumTest1\ValtechTest\ValtechTest\bin\Debug\nunit.framework.xml
+C:\DEV\TDD\Selenium\1.0\SeleniumTest1\ValtechTest\ValtechTest\bin\Debug\WebDriver.xml
+C:\DEV\TDD\Selenium\1.0\SeleniumTest1\ValtechTest\ValtechTest\bin\Debug\WebDriver.Support.xml
+C:\DEV\TDD\Selenium\1.0\SeleniumTest1\ValtechTest\ValtechTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\DEV\TDD\Selenium\1.0\SeleniumTest1\ValtechTest\ValtechTest\obj\Debug\ValtechTest.dll
+C:\DEV\TDD\Selenium\1.0\SeleniumTest1\ValtechTest\ValtechTest\obj\Debug\ValtechTest.pdb
+C:\DEV\TDD\Selenium\1.0\SeleniumTest1\ValtechTest\ValtechTest\obj\Debug\ValtechTest.csprojResolveAssemblyReference.cache

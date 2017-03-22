@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Administrator.WIN2K12RC\Documents\Visual Studio 2015\Projects\DEV\ValtechTest\ValtechTest\bin\Debug\ValtechTest.dll" total="5" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-03-22" time="16:06:07">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8009" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="WIN2K12RC" user="Administrator" user-domain="WIN2K12RC0" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Administrator.WIN2K12RC\Documents\Visual Studio 2015\Projects\DEV\ValtechTest\ValtechTest\bin\Debug\ValtechTest.dll" executed="True" result="Success" success="True" time="74.980" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="ValtechTest" executed="True" result="Success" success="True" time="74.949" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="MainTests" executed="True" result="Success" success="True" time="74.941" asserts="0">
+            <results>
+              <test-case name="ValtechTest.MainTests.ANavigateToHomePage" executed="True" result="Success" success="True" time="25.315" asserts="1" />
+              <test-case name="ValtechTest.MainTests.BNavigateToCases" executed="True" result="Success" success="True" time="20.715" asserts="1" />
+              <test-case name="ValtechTest.MainTests.CNavigateToServices" executed="True" result="Success" success="True" time="2.614" asserts="1" />
+              <test-case name="ValtechTest.MainTests.DNavigateToJobs" executed="True" result="Success" success="True" time="6.691" asserts="1" />
+              <test-case name="ValtechTest.MainTests.ENavigateToContactsPage" executed="True" result="Success" success="True" time="5.588" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
